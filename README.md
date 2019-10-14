@@ -7,6 +7,11 @@ There is a webiste and app for our <b>COSMO-LEARN PROJECT</b>. The primary aim o
 There is also an <b>AR BOOK</b> for the customers who enroll in the course from our website .
 the <b>AR BOOK</b> is used to give the users to see the <b><i>3D model</i></b> of various complex objects to help them in understanding it .
 
+## Theme-Education
+
+Problem Statement-To develop an application which uses the technology of augmented reality to propose a revolutionary idea to completely change the primitive methods of learning. The idea is to scan certain images which can come alive and teach about themselves. 
+
+
 
 ## Some describing images
 
