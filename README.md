@@ -9,7 +9,7 @@ the <b>AR BOOK</b> is used to give the users to see the <b><i>3D model</i></b> o
 
 ## Theme-Education
 
-Problem Statement-To develop an application which uses the technology of augmented reality to propose a revolutionary idea to completely change the primitive methods of learning. The idea is to scan certain images which can come alive and teach about themselves. 
+Problem Statement- <b>To develop an application which uses the technology of augmented reality to propose a revolutionary idea to completely change the primitive methods of learning. The idea is to scan certain images which can come alive and teach about themselves.</b> 
 
 
 
