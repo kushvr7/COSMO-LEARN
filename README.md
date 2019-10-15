@@ -30,7 +30,8 @@ This technique helps to students to learn and understands objects properly  .
 As we know the visual learning is good to proper understanding .
 
 #### AR BOOK SAMPLES ( study materials )
-
+   1) First scan the models provided in the AR BOOK .
+   2) Then the 3-D model will be displayed with the sounds (about the model) and revolving model . 
 [AR-Book.pdf](https://github.com/kushvr7/COSMO-LEARN/files/3727819/AR-Book.pdf)
 
 
