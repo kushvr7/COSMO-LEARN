@@ -73,3 +73,10 @@ As we know the visual learning is good to proper understanding .
 ![Screenshot (13)](https://user-images.githubusercontent.com/47947329/66803117-91045080-eed3-11e9-8d36-ec4698daaa8e.png)
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/47947329/66803119-919ce700-eed3-11e9-9d72-84be262d77c1.png)
+
+### SECTION - electrical
+
+
+![Screenshot (15)](https://user-images.githubusercontent.com/47947329/66803335-299ad080-eed4-11e9-88d2-a351eede5d03.png)
+
+![Screenshot (16)](https://user-images.githubusercontent.com/47947329/66803336-2a336700-eed4-11e9-8d8a-6ba2704a1ab0.png)
