@@ -29,6 +29,24 @@ It contains the apk of the unity application which is used to view the live mode
 This technique helps to students to learn and understands objects properly  . 
 As we know the visual learning is good to proper understanding .
 
+## Screenshots of the website 
+
+<b>Welcome page of our website .</b>
+
+![Screenshot (1)](https://user-images.githubusercontent.com/47947329/66801738-fc97ef00-eece-11e9-8506-b3edb002034c.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/47947329/66801804-408af400-eecf-11e9-8381-ff848799a7e6.png)
+<br>
+![Screenshot (3)](https://user-images.githubusercontent.com/47947329/66801805-41238a80-eecf-11e9-9515-51802bc2a8f3.png)
+
+
+<b>SIGN UP part of our website</b>
+
+![Screenshot (4)](https://user-images.githubusercontent.com/47947329/66801912-9790c900-eecf-11e9-8b1b-bacefcc7ad6a.png)
+
+<b>LOGIN POP-UP WINDOW</b>
+
+![Screenshot (5)](https://user-images.githubusercontent.com/47947329/66801951-b68f5b00-eecf-11e9-9b80-f26787cd3c97.png)
 
 
 
