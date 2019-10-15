@@ -62,5 +62,10 @@ As we know the visual learning is good to proper understanding .
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/47947329/66802712-3d453780-eed2-11e9-8ed0-f82ec9d78b1f.png)
 
+### SECTION - biology
+
+![Screenshot (11)](https://user-images.githubusercontent.com/47947329/66802841-9f05a180-eed2-11e9-84bd-9cb73ba89444.png)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/47947329/66802843-9f9e3800-eed2-11e9-9924-b3daa35fc1a9.png)
 
 
