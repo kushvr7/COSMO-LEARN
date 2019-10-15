@@ -48,6 +48,10 @@ As we know the visual learning is good to proper understanding .
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/47947329/66801951-b68f5b00-eecf-11e9-9b80-f26787cd3c97.png)
 
+## DASHBOARD of the website
+
+![Screenshot (6)](https://user-images.githubusercontent.com/47947329/66802012-f6eed900-eecf-11e9-8b68-c360331bd027.png)
+
 
 
 
