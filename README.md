@@ -29,6 +29,11 @@ It contains the apk of the unity which is used to view the live models of the ob
 This technique helps to students to learn and understands objects properly  . 
 As we know the visual learning is good to proper understanding .
 
+#### AR BOOK SAMPLES ( study materials )
+
+[AR-Book.pdf](https://github.com/kushvr7/COSMO-LEARN/files/3727819/AR-Book.pdf)
+
+
 ## Screenshots of the website 
 
 <b>Welcome page of our website .</b>
