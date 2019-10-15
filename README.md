@@ -22,7 +22,7 @@ Problem Statement- <b>To develop an application which uses the technology of aug
 
 ## AR BOOK
 
-It contains the apk of the unity application which is used to view the live models of the objects . 
+It contains the apk of the unity which is used to view the live models of the objects . 
 <b>It have a button to play the  sounds of the respected models . </b>
 <b>It also have a button to make the models rotate to have a proper view of the 3-D models</b>
 
