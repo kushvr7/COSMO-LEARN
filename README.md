@@ -57,7 +57,10 @@ As we know the visual learning is good to proper understanding .
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/47947329/66802441-4550a780-eed1-11e9-980a-b147ba54e8a0.png)
 
+### SECTION - mechanics
+![Screenshot (9)](https://user-images.githubusercontent.com/47947329/66802711-3d453780-eed2-11e9-8507-39a98632d043.png)
 
+![Screenshot (10)](https://user-images.githubusercontent.com/47947329/66802712-3d453780-eed2-11e9-8ed0-f82ec9d78b1f.png)
 
 
 
