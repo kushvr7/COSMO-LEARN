@@ -52,7 +52,10 @@ As we know the visual learning is good to proper understanding .
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/47947329/66802012-f6eed900-eecf-11e9-8b68-c360331bd027.png)
 
+### SECTION - chemistry
+<b>![Screenshot (7)](https://user-images.githubusercontent.com/47947329/66802440-4550a780-eed1-11e9-8e19-0246e9dc9068.png)</b>
 
+![Screenshot (8)](https://user-images.githubusercontent.com/47947329/66802441-4550a780-eed1-11e9-980a-b147ba54e8a0.png)
 
 
 
