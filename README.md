@@ -68,4 +68,8 @@ As we know the visual learning is good to proper understanding .
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/47947329/66802843-9f9e3800-eed2-11e9-9924-b3daa35fc1a9.png)
 
+### SECTION - physics
 
+![Screenshot (13)](https://user-images.githubusercontent.com/47947329/66803117-91045080-eed3-11e9-8d36-ec4698daaa8e.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/47947329/66803119-919ce700-eed3-11e9-9d72-84be262d77c1.png)
