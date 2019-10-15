@@ -1,6 +1,6 @@
 <?php
-
-if(   isset(    $_SESSION['name']   )   )
+session_start();
+if( isset(  $_SESSION['name']  ) )
 header("Location: dash.php");
 
 ?>
@@ -20,6 +20,7 @@ header("Location: dash.php");
   <link href="color/default.css" rel="stylesheet" media="screen">
   <link rel="stylesheet" href="css/signup.css">
   <link rel="stylesheet" href="css/login.css">
+  <link rel="stylesheet" href="css/style.css">
 
 
 </head>
@@ -45,8 +46,6 @@ header("Location: dash.php");
         <ul class="nav navbar-nav">
           <li class="current"><a href="#intro">Home</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="#downloads">Downloads</a></li>
-          <li><a href="#instructions">Instructions</a></li>
           <li><a href="#register" style="width:auto;">Sign up</a></li>
          
          
@@ -139,69 +138,20 @@ header("Location: dash.php");
     </section><!-- #about-->
 
       <!-- Instructions -->
-  <section id="instructions" class="home-section bg-white">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-offset-2 col-md-8">
-          <div class="section-heading">
-            <h2>Instructions</h2>
-            <div class="heading-line"></div>
-            <p>How to use the application:A guide</p>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div id="carousel-service" class="service carousel slide"> 
-              <div class="carousel-inner">
-                  <div class="item active">
-                    <div class="row">
-                      <div class="col-sm-12 col-md-offset-1 col-md-6">
-                        <div class="wow bounceInLeft">
-                          <h4>Point your camera on the images you want to see live.</h4>
-                          <p>Check the tutorial below:</p>
-                        </div>
-                      </div>
-                      <div class="col-sm-12 col-md-5">
-                        <div class="screenshot wow bounceInRight">
-                          <video>
-
-                          </video>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <h2>Scan the images below to test the application.</h2>
-                  <br>
-<br>
-<br>
-<br>
-<br>
-                  <div class="col-sm-6 col-md-3 wow fadeInLeft">
-                      <div class="block">
-                          <img src="img/1.jpeg" alt="" style="height:300px;width:250px; ">
-                      </div>
-                  </div>
-                  <div class="col-sm-6 col-md-3 wow fadeInLeft">
-                      <div class="block">
-                      <img src="img/3.jpeg" alt="" style="height:300px;width:250px; ">
-                      </div>
-                  </div>
-                  <div class="col-sm-6 col-md-3 wow fadeInLeft">
-                      <div class="block">
-                      <img src="img/4.jpeg" alt="" style="height:300px;width:250px; ">
-                      </div>
-                  </div>
-                  <div class="col-sm-6 col-md-3 wow fadeInLeft" data-wow-delay="0.3s">
-                      <div class="block">
-                          <img src="img/2.jpg" alt="" style="height:300px;width:250px; ">
-                      </div>
-                  </div>
-                  
-                  </div>
-              </div>
-          </div>
-          </div><!-- .container close -->
+  <img src= img/app.jpeg>
+  <h2>Install AR Book App</h2>
+  <img src=img/book.jpeg>
+  <h2>Install CosmoLearn Website App</h2>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h1>Sample Images:Scan from App</h1>
+  <hr>
+  <img src= img/1.jpeg>
+  <br>
+  <img src= img/3.jpg>
+ 
             <!-- Instructions -->
             
 <br>
@@ -264,6 +214,7 @@ header("Location: dash.php");
   <script src="js/stellar.js"></script>
    <script src="js/custom.js"></script>
    <script src="js/validatepass.js"></script>
+   <script src="js/slide.js"></script>
    <script>
    var modal = document.getElementById('id01');
 
